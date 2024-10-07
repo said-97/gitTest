@@ -1,2 +1,2 @@
-print('hur mår du')
-print('Hej')
+
+print("testing testing")
